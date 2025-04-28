@@ -833,7 +833,7 @@ Region Changer [Anarion, Atlas]
 02426858 0000XXYY
 004267E7 0000000R
 0442785C ZZZZzzzz
-WARNING: REQUIRES CONFIGURATION! Changes the flag displayed on ghosts, the region ID (the colour of the line displayed in online races), and the globe position when on the globe screen. Source: https://mariokartwii.com/showthread.php?tid=94 & https://mariokartwii.com/showthread.php?tid=93 & https://mariokartwii.com/showthread.php?tid=95
+Need configuration. Changes the flag displayed on ghosts, the region ID (the colour of the line displayed in online races), and the globe position when on the globe screen. Source: https://mariokartwii.com/showthread.php?tid=94 & https://mariokartwii.com/showthread.php?tid=93 & https://mariokartwii.com/showthread.php?tid=95
 
 Mii Cloner [mdmwii]
 C20C98D4 00000002
