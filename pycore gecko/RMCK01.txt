@@ -126,7 +126,7 @@ C2734078 00000008
 915D0004 39400001
 48000008 39400000
 995B0011 60000000
-WARNING: REQUIRES CONFIGURATION! When the button activator is held, you will instead press B on every other frame, resulting in rapid-fire/turbo inputs. Source: https://discord.com/channels/214574342137315328/735589843513638940/1222041734851203164
+Need configuration. When the button activator is held, you will instead press B on every other frame, resulting in rapid-fire/turbo inputs. Source: https://discord.com/channels/214574342137315328/735589843513638940/1222041734851203164
 
 SG Code (GCN) [Anarion, Gaberboo]
 C21AFF54 00000007
@@ -155,7 +155,7 @@ C273412C 00000004
 4182000C 419E0008
 EC210828 EC22082A
 60000000 60000000
-WARNING: REQUIRES CONFIGURATION! Same as RFH code for Wiichuk but horizontal joystick inputs are alternated to neutral every other frame. Source: https://discord.com/channels/214574342137315328/735589843513638940/1222052007771373639
+Need configuration. Same as RFH code for Wiichuk but horizontal joystick inputs are alternated to neutral every other frame. Source: https://discord.com/channels/214574342137315328/735589843513638940/1222052007771373639
 
 SS Code (GCN) [Gaberboo]
 c21aff54 00000007
@@ -725,7 +725,7 @@ Region Changer [Anarion, Atlas]
 02418BF8 0000XXYY
 00418B87 0000000R
 04418BFC ZZZZzzzz
-WARNING: REQUIRES CONFIGURATION! Changes the flag displayed on ghosts, the region ID (the colour of the line displayed in online races), and the globe position when on the globe screen. Source: https://mariokartwii.com/showthread.php?tid=94 & https://mariokartwii.com/showthread.php?tid=93 & https://mariokartwii.com/showthread.php?tid=95
+Need configuration. Changes the flag displayed on ghosts, the region ID (the colour of the line displayed in online races), and the globe position when on the globe screen. Source: https://mariokartwii.com/showthread.php?tid=94 & https://mariokartwii.com/showthread.php?tid=93 & https://mariokartwii.com/showthread.php?tid=95
 
 Mii Cloner [mdmwii]
 C20C99D4 00000002
@@ -1146,7 +1146,7 @@ E0000000 00000000
 2833XXXX YYYYZZZZ
 045A367C EC7A01F2
 E0000000 80008000
-WARNING: REQUIRES CONFIGURATION! Allows you to fly in any direction. Use the C-stick to levitate in each direction, the analog stick to turn in each direction, and the A and B buttons to fly forwards or backwards. Deactivates when the configured button is pressed. Source: https://mariokartwii.com/showthread.php?tid=542
+Need configuration. Allows you to fly in any direction. Use the C-stick to levitate in each direction, the analog stick to turn in each direction, and the A and B buttons to fly forwards or backwards. Deactivates when the configured button is pressed. Source: https://mariokartwii.com/showthread.php?tid=542
 
 Write Exact Finish Time to Memory [stebler]
 C24FFED0 0000001B
